@@ -1,0 +1,6 @@
+com\monitor\ConfigManagerTest.class
+com\monitor\MonitorResultTest.class
+com\monitor\ReportExporterTest.class
+com\monitor\LatencyStatsTest.class
+com\monitor\HostTest.class
+com\monitor\PortMonitorTest.class

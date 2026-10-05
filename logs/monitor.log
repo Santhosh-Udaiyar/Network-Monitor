@@ -1,0 +1,32 @@
+[2026-10-05 14:54:56.497] [INFO ] [main] Successfully loaded 2 host(s) from test-hosts.properties
+[2026-10-05 14:54:56.534] [INFO ] [main] Successfully saved 2 host(s) to C:\Users\SANTHO~1\AppData\Local\Temp\junit14736066152681810751\saved-hosts.properties
+[2026-10-05 14:54:56.536] [INFO ] [main] Successfully loaded 2 host(s) from saved-hosts.properties
+[2026-10-05 14:54:56.541] [WARN ] [main] Config file not found at C:\Users\SANTHO~1\AppData\Local\Temp\junit9786254749773517052\missing.properties. Loading built-in default hosts.
+[2026-10-05 14:54:56.651] [INFO ] [main] Exported CSV monitoring report to C:\Users\SANTHO~1\AppData\Local\Temp\junit11966043270127093996\report.csv
+[2026-10-05 14:54:56.666] [INFO ] [main] Exported TXT monitoring report to C:\Users\SANTHO~1\AppData\Local\Temp\junit16896908626545905722\report.txt
+[2026-10-05 14:58:03.113] [INFO ] [main] Successfully loaded 2 host(s) from test-hosts.properties
+[2026-10-05 14:58:03.161] [INFO ] [main] Successfully saved 2 host(s) to C:\Users\SANTHO~1\AppData\Local\Temp\junit12530326677739111479\saved-hosts.properties
+[2026-10-05 14:58:03.163] [INFO ] [main] Successfully loaded 2 host(s) from saved-hosts.properties
+[2026-10-05 14:58:03.171] [WARN ] [main] Config file not found at C:\Users\SANTHO~1\AppData\Local\Temp\junit6249420987539437772\missing.properties. Loading built-in default hosts.
+[2026-10-05 14:58:03.252] [INFO ] [main] Checked [Mock App Service - App API]: UP (2 ms)
+[2026-10-05 14:58:03.357] [ALERT] [main] ALERT: Host 'Mock App Service' (127.0.0.1:50533) is DOWN! Error: Port 50533 on 127.0.0.1 is CLOSED (Connection refused)
+[2026-10-05 14:58:03.473] [INFO ] [main] RECOVERY: Host 'Mock App Service' (127.0.0.1:50533) has RECOVERED! Latency: 2 ms
+[2026-10-05 14:58:03.485] [INFO ] [main] Exported CSV monitoring report to C:\Users\SANTHO~1\AppData\Local\Temp\junit7095184448385732888\verification-report.csv
+[2026-10-05 14:58:03.496] [INFO ] [main] Exported TXT monitoring report to C:\Users\SANTHO~1\AppData\Local\Temp\junit7095184448385732888\verification-report.txt
+[2026-10-05 14:58:03.503] [INFO ] [main] Shutting down monitor scheduler and worker thread pools...
+[2026-10-05 14:58:03.504] [INFO ] [main] Scheduler shutdown complete.
+[2026-10-05 14:58:03.600] [INFO ] [main] Exported CSV monitoring report to C:\Users\SANTHO~1\AppData\Local\Temp\junit16903901550678675367\report.csv
+[2026-10-05 14:58:03.608] [INFO ] [main] Exported TXT monitoring report to C:\Users\SANTHO~1\AppData\Local\Temp\junit7423991593453298435\report.txt
+[2026-10-05 14:59:43.351] [INFO ] [main] Successfully loaded 2 host(s) from test-hosts.properties
+[2026-10-05 14:59:43.392] [INFO ] [main] Successfully saved 2 host(s) to C:\Users\SANTHO~1\AppData\Local\Temp\junit15196501594866356973\saved-hosts.properties
+[2026-10-05 14:59:43.393] [INFO ] [main] Successfully loaded 2 host(s) from saved-hosts.properties
+[2026-10-05 14:59:43.399] [WARN ] [main] Config file not found at C:\Users\SANTHO~1\AppData\Local\Temp\junit9342897368181853810\missing.properties. Loading built-in default hosts.
+[2026-10-05 14:59:43.473] [INFO ] [main] Checked [Mock App Service - App API]: UP (2 ms)
+[2026-10-05 14:59:43.579] [ALERT] [main] ALERT: Host 'Mock App Service' (127.0.0.1:52835) is DOWN! Error: Port 52835 on 127.0.0.1 is CLOSED (Connection refused)
+[2026-10-05 14:59:43.703] [INFO ] [main] RECOVERY: Host 'Mock App Service' (127.0.0.1:52835) has RECOVERED! Latency: 1 ms
+[2026-10-05 14:59:43.714] [INFO ] [main] Exported CSV monitoring report to C:\Users\SANTHO~1\AppData\Local\Temp\junit17355997338439685500\verification-report.csv
+[2026-10-05 14:59:43.727] [INFO ] [main] Exported TXT monitoring report to C:\Users\SANTHO~1\AppData\Local\Temp\junit17355997338439685500\verification-report.txt
+[2026-10-05 14:59:43.734] [INFO ] [main] Shutting down monitor scheduler and worker thread pools...
+[2026-10-05 14:59:43.735] [INFO ] [main] Scheduler shutdown complete.
+[2026-10-05 14:59:43.818] [INFO ] [main] Exported CSV monitoring report to C:\Users\SANTHO~1\AppData\Local\Temp\junit1085236319768733770\report.csv
+[2026-10-05 14:59:43.826] [INFO ] [main] Exported TXT monitoring report to C:\Users\SANTHO~1\AppData\Local\Temp\junit10205791982581482344\report.txt
